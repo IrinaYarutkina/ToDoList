@@ -1,0 +1,25 @@
+.container__ToDo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ToDo__tittle{
+    font-family: "Roboto Slab", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+.ToDo__input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ToDo__button{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: white;
+    background: #ec1e51;
+    padding: 10px;
+    border: none;
+}
